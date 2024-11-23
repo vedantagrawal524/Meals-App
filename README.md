@@ -1,16 +1,6 @@
-# meals
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Meals-Recipe Application
+- Provides users with a collection of recipes and meal ideas.
+- It allows users to search, filter, and explore recipes based on ingredients, cuisine, or dietary preferences.
+- The application often includes features like step-by-step cooking instructions, nutritional information, and the ability to save favorite recipes for future use.
+## Preview
+https://github.com/user-attachments/assets/2f94492b-3a2b-4ce4-b6a8-93d0fe17122f
